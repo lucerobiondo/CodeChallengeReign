@@ -1,0 +1,77 @@
+
+.Rectangle-2-Copy {
+  /* width: 1440px;
+  height: 114px; */
+  margin: 0 0 70px;
+  padding: 44px 1082px 42px 150px;
+  box-shadow: 0 1px 4px 0 rgba(0, 21, 41, 0.12);
+  background-image: linear-gradient(to bottom, #ececec -32%, #fff 124%);
+}
+
+.ColorToggleButton--Home-view{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+  min-height: 90px;
+  height: 102px;
+}
+
+.Select--Home-view{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 50px;
+  margin-bottom: 38px;
+}
+
+.HACKER-NEWS {
+  width: 208px;
+  height: 28px;
+  object-fit: contain;
+  font-family: Baskerville;
+  font-size: 28px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #3b3b3b;
+}
+
+.Front-End-Test---Home-view {
+  width: 1440px;
+  height: 1024px;
+  padding: 0 0 98px;
+  background-color: #fcfcfc;
+}
+
+.Rectangle-26-Copy-23 {
+  width: 240px;
+  height: 32px;
+  margin: 63px 114px 1px 150px;
+  padding: 5px 12px 5px 12px;
+  border-radius: 4px;
+  border: solid 1px #2e2e2e;
+  background-color: #fff;
+}
+
+.Description--Home-view{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+
+.Pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 38px;
+  margin-bottom: 20px;
+}

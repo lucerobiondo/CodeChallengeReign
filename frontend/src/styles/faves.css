@@ -1,0 +1,36 @@
+.Faves-Rectangle {
+    width: 118px;
+    height: 39px;
+    padding: 3px 39px 0 40px;
+    border-radius: 2px;
+    border: solid 1px #1797ff;
+    font-size: 12px;
+}
+
+p.text-All {
+    width: 19px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1797ff;
+}
+
+p.text-My-faves {
+    width: 115px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606060;
+}
