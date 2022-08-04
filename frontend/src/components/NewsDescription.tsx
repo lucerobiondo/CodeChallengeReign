@@ -13,7 +13,7 @@ interface Props {
 }
 
 const NewsDescription = ({ hit }: Props) => {
-    
+
     const [like, setLike] = useState(false);
 
     const handleLike = () => {

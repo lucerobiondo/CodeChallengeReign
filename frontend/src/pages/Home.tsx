@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Box } from '@mui/material';
 import ColorToggleButton from '../components/ColorToggleButton';
-import { Hits , Data } from '../general/types';
+import { Hits, Data } from '../general/types';
 import '../styles/home.css';
 import '../styles/select.css';
 import axios from 'axios';
@@ -34,10 +34,10 @@ const Home = () => {
                     HACKER NEWS
                 </h1>
             </Box>
-            <Box className='ColorToggleButton--Home-view'>
-                <ColorToggleButton hits={hits} setHits={setHits} />
-            </Box>
             <Box className="Front-End-Test---Home-view">
+                <Box className='ColorToggleButton--Home-view'>
+                    <ColorToggleButton hits={hits} setHits={setHits} />
+                </Box>
                 <Box className='Select--Home-view'>
                     <SelectControl news={news} setNews={setNews} />
                 </Box>

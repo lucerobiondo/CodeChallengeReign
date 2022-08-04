@@ -86,3 +86,13 @@ img.iconmonstr-favorite {
     object-fit: contain;
     cursor: pointer;
 }
+
+@media screen and (max-width: 480px) {
+    .Rectangle-Patern {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-left: 70px;
+    }
+}

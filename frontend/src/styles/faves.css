@@ -19,6 +19,7 @@ p.text-All {
     letter-spacing: normal;
     text-align: center;
     color: #1797ff;
+    text-decoration: none;
 }
 
 p.text-My-faves {
@@ -33,4 +34,5 @@ p.text-My-faves {
     letter-spacing: normal;
     text-align: center;
     color: #606060;
+    text-decoration: none;
 }
