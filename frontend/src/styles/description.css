@@ -6,7 +6,7 @@
     align-items: center;
     width: 517px;
     height: 90px;
-    margin: 0;
+    margin: 10px 0 0 0;
     padding: 0 0 0 26px;
     opacity: 0.8;
     border-radius: 6px;
@@ -14,14 +14,19 @@
     background-color: #fff;
 }
 
+.Rectangle-Patern:hover {
+    opacity: 1;
+}
+
 .Rectangle1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-self: center;
+    align-items: center;
+    align-content: center;
     width: 420px;
     height: 90px;
-    position: absolute;
+    position: relative;
     word-wrap: break-word;
     white-space: pre-wrap;
     word-break: break-word;
@@ -51,7 +56,7 @@ img.iconmonstr-time-2 {
     width: 107px;
     height: 13px;
     margin: 2px 309px 7px 8px;
-    font-family: Roboto-Medium;
+    font-family: Roboto;
     font-size: 11px;
     font-weight: normal;
     font-stretch: normal;
@@ -65,18 +70,14 @@ img.iconmonstr-time-2 {
     width: 440px;
     height: 20px;
     margin: 6px 0 0;
-    font-family: Roboto-Medium;
-    font-size: 12px;
+    font-family: Roboto;
+    font-size: 14px;
     font-weight: 500;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.43;
     letter-spacing: 0.25px;
-    color: #292929;
-}
-
-.Rectangle-story-title {
-    display: flex;
+    color: #6b6b6b;
 }
 
 img.iconmonstr-favorite {

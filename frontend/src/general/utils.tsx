@@ -6,7 +6,7 @@ export const menuOptions = [
     {name: 'Angular', img: angular, class: 'Angular', url: 'angular'},
     {name: 'React', img: react, class: 'Reacts', url: 'react'},
     {name: 'Vue', img: vue, class: 'Vuejs', url: 'vuejs'}
-]
+];
 
 export const formatDate = (date: Date) => {
     return {
@@ -14,9 +14,9 @@ export const formatDate = (date: Date) => {
         month: date.getMonth() + 1,
         day: date.getDate(),
         hour: date.getHours()
-    }
-}
+    };
+};
 
 export const url = (angular: string, page: number) => {
-    return `https://hn.algolia.com/api/v1/search_by_date?query=${angular}&page=${page.toString()}`
-}
+    return `https://hn.algolia.com/api/v1/search_by_date?query=${angular}&page=${page.toString()}`;
+};

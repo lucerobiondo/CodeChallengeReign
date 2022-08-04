@@ -2,21 +2,33 @@ import * as React from 'react';
 import ToggleButton from '@mui/material/ToggleButton';
 import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
 import '../styles/faves.css';
+import { Hits } from '../general/types';
+import { v4 as uuid } from "uuid";
 
-export default function ColorToggleButton() {
-  const [alignment, setAlignment] = React.useState('web');
+interface IProps {
+  hits: Hits[],
+  setHits: React.Dispatch<React.SetStateAction<Hits[]>>
+}
 
-  const handleChange = (
+export default function ColorToggleButton({hits, setHits}: IProps) {
+  const [faves, setFaves] = React.useState('all_faves');
+
+  const handleChange = async (
     event: React.MouseEvent<HTMLElement>,
-    newAlignment: string,
+    newFave: string
   ) => {
-    setAlignment(newAlignment);
+    if(faves){
+      setHits([
+        ...hits
+      ]);
+      setFaves(newFave);
+    }
   };
 
   return (
     <ToggleButtonGroup
       color="primary"
-      value={alignment}
+      value={faves}
       exclusive
       onChange={handleChange}
     >

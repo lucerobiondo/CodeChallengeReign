@@ -1,14 +1,17 @@
 
 export type Hits = {
+    _id: string,
     author: string,
     story_title: string,
     story_url: string,
-    created_at: string
+    created_at: string,
+    like: boolean
 }
 
 export type Data = {
     hits: Hits[],
     hitsPerPage: number,
+    nbHits: number,
     page: number,
     query: string
 }
