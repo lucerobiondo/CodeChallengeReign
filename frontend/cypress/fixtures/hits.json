@@ -1,0 +1,832 @@
+[
+    {
+        "created_at": "2022-08-05T20:32:29.000Z",
+        "title": null,
+        "url": null,
+        "author": "emadabdulrahim",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Efficiency is good but not the most important thing when it comes to thinking, idea generation, journaling, etc.",
+        "num_comments": null,
+        "story_id": 32341607,
+        "story_title": "Thinking with pen and paper",
+        "story_url": "https://ljvmiranda921.github.io/life/2022/08/04/pen-and-paper/",
+        "parent_id": 32360578,
+        "created_at_i": 1659731549,
+        "_tags": [
+            "comment",
+            "author_emadabdulrahim",
+            "story_32341607"
+        ],
+        "objectID": "32361651",
+        "_highlightResult": {
+            "author": {
+                "value": "emadabdulrahim",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Efficiency is good but not the most important thing when it comes to thinking, idea generation, journaling, etc.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Thinking with pen and paper",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://ljvmiranda921.github.io/life/2022/08/04/pen-and-paper/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:32:22.000Z",
+        "title": null,
+        "url": null,
+        "author": "Georgelemental",
+        "points": null,
+        "story_text": null,
+        "comment_text": "China is a totalitarian state—the Chinese government can coerce its corporations to take any action for any reason at any time. If the Chinese government is an enemy of the US, and Chinese companies function as an extension of their country&#x27;s government, then we must treat those companies as enemies. The people who work in those corporations are mostly average Joes like you and I, but the CCP can harvest their organs at any time, so we are forced to be wary.",
+        "num_comments": null,
+        "story_id": 32354969,
+        "story_title": "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+        "story_url": "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html",
+        "parent_id": 32356571,
+        "created_at_i": 1659731542,
+        "_tags": [
+            "comment",
+            "author_Georgelemental",
+            "story_32354969"
+        ],
+        "objectID": "32361650",
+        "_highlightResult": {
+            "author": {
+                "value": "Georgelemental",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "China is a totalitarian state—the Chinese government can coerce its corporations to take any action for any reason at any time. If the Chinese government is an enemy of the US, and Chinese companies function as an extension of their country's government, then we must treat those companies as enemies. The people who work in those corporations are mostly average Joes like you and I, but the CCP can harvest their organs at any time, so we are forced to be wary.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:32:21.000Z",
+        "title": null,
+        "url": null,
+        "author": "buescher",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Try the exercise.  Choose one and then choose your tooling.  If it&#x27;s not C, C++, or Ada, I&#x27;ll be surprised.",
+        "num_comments": null,
+        "story_id": 32354471,
+        "story_title": "Ask HN: What are some good resources to learn safety-critical C/C++ coding from?",
+        "story_url": null,
+        "parent_id": 32361609,
+        "created_at_i": 1659731541,
+        "_tags": [
+            "comment",
+            "author_buescher",
+            "story_32354471"
+        ],
+        "objectID": "32361649",
+        "_highlightResult": {
+            "author": {
+                "value": "buescher",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Try the exercise.  Choose one and then choose your tooling.  If it's not C, C++, or Ada, I'll be surprised.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Ask HN: What are some good resources to learn safety-critical C/C++ coding from?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:32:19.000Z",
+        "title": null,
+        "url": null,
+        "author": "lapcat",
+        "points": null,
+        "story_text": null,
+        "comment_text": "What can you do to prevent sites from getting removed from DuckDuckGo as a side effect of Bing mistakenly deindexing the sites?<p><a href=\"https:&#x2F;&#x2F;www.jessesquires.com&#x2F;blog&#x2F;2022&#x2F;07&#x2F;25&#x2F;my-website-disappeared-from-bing-and-duckduckgo-part-2&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.jessesquires.com&#x2F;blog&#x2F;2022&#x2F;07&#x2F;25&#x2F;my-website-disa...</a><p><a href=\"https:&#x2F;&#x2F;lapcatsoftware.com&#x2F;articles&#x2F;bing.html\" rel=\"nofollow\">https:&#x2F;&#x2F;lapcatsoftware.com&#x2F;articles&#x2F;bing.html</a><p><a href=\"https:&#x2F;&#x2F;io.bikegremlin.com&#x2F;28530&#x2F;microsoft-bing-serp-gone-overnight&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;io.bikegremlin.com&#x2F;28530&#x2F;microsoft-bing-serp-gone-ov...</a><p><a href=\"https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-bing&#x2F;help-why-my-site-has-been-removed-from-bing-s-search-results&#x2F;m-p&#x2F;2906441\" rel=\"nofollow\">https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;t5&#x2F;microsoft-bing&#x2F;help-w...</a>",
+        "num_comments": null,
+        "story_id": 32355518,
+        "story_title": "More Privacy and Transparency for DuckDuckGo Web Tracking Protections",
+        "story_url": "https://spreadprivacy.com/more-privacy-and-transparency/",
+        "parent_id": 32360874,
+        "created_at_i": 1659731539,
+        "_tags": [
+            "comment",
+            "author_lapcat",
+            "story_32355518"
+        ],
+        "objectID": "32361648",
+        "_highlightResult": {
+            "author": {
+                "value": "lapcat",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "What can you do to prevent sites from getting removed from DuckDuckGo as a side effect of Bing mistakenly deindexing the sites?<p><a href=\"https://www.jessesquires.com/blog/2022/07/25/my-website-disappeared-from-bing-and-duckduckgo-part-2/\" rel=\"nofollow\">https://www.jessesquires.com/blog/2022/07/25/my-website-disa...</a><p><a href=\"https://lapcatsoftware.com/articles/bing.html\" rel=\"nofollow\">https://lapcatsoftware.com/articles/bing.html</a><p><a href=\"https://io.bikegremlin.com/28530/microsoft-bing-serp-gone-overnight/\" rel=\"nofollow\">https://io.bikegremlin.com/28530/microsoft-bing-serp-gone-ov...</a><p><a href=\"https://techcommunity.microsoft.com/t5/microsoft-bing/help-why-my-site-has-been-removed-from-bing-s-search-results/m-p/2906441\" rel=\"nofollow\">https://techcommunity.microsoft.com/t5/microsoft-bing/help-w...</a>",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "More Privacy and Transparency for DuckDuckGo Web Tracking Protections",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://spreadprivacy.com/more-privacy-and-transparency/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:32:17.000Z",
+        "title": null,
+        "url": null,
+        "author": "evan_",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Another explanation could be, he’s not actually that good at running a business",
+        "num_comments": null,
+        "story_id": 32359003,
+        "story_title": "Twitter says Musk’s spam analysis used tool that called his own account a bot",
+        "story_url": "https://arstechnica.com/tech-policy/2022/08/twitter-says-musks-spam-analysis-used-tool-that-called-his-own-account-a-bot/",
+        "parent_id": 32360438,
+        "created_at_i": 1659731537,
+        "_tags": [
+            "comment",
+            "author_evan_",
+            "story_32359003"
+        ],
+        "objectID": "32361647",
+        "_highlightResult": {
+            "author": {
+                "value": "evan_",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Another explanation could be, he’s not actually that good at running a business",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Twitter says Musk’s spam analysis used tool that called his own account a bot",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://arstechnica.com/tech-policy/2022/08/twitter-says-musks-spam-analysis-used-tool-that-called-his-own-account-a-bot/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:50.000Z",
+        "title": null,
+        "url": null,
+        "author": "swores",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Fair enough, my bad!",
+        "num_comments": null,
+        "story_id": 32354969,
+        "story_title": "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+        "story_url": "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html",
+        "parent_id": 32360126,
+        "created_at_i": 1659731510,
+        "_tags": [
+            "comment",
+            "author_swores",
+            "story_32354969"
+        ],
+        "objectID": "32361646",
+        "_highlightResult": {
+            "author": {
+                "value": "swores",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Fair enough, my bad!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:38.000Z",
+        "title": null,
+        "url": null,
+        "author": "rlawson",
+        "points": null,
+        "story_text": null,
+        "comment_text": "OP here - thank you for replying and I think 1 &amp; 2 are more suitable for my background and interests. Again thanks for the guidance.",
+        "num_comments": null,
+        "story_id": 32356968,
+        "story_title": "Ask HN: Best way to learn advanced Python?",
+        "story_url": null,
+        "parent_id": 32358527,
+        "created_at_i": 1659731498,
+        "_tags": [
+            "comment",
+            "author_rlawson",
+            "story_32356968"
+        ],
+        "objectID": "32361645",
+        "_highlightResult": {
+            "author": {
+                "value": "rlawson",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "OP here - thank you for replying and I think 1 &amp; 2 are more suitable for my background and interests. Again thanks for the guidance.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Ask HN: Best way to learn advanced Python?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:29.000Z",
+        "title": null,
+        "url": null,
+        "author": "hotpotamus",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Yep, I&#x27;ve actually got some of the fanless guys branded as &quot;protectli&quot; or something like that around the office, I didn&#x27;t know there were generic ones on aliexpress - that&#x27;s a good link, thank you.<p>And yep, I&#x27;ve only ever used dd-wrt, never openwrt directly, so not sure about that, but I&#x27;ve no desire to hand edit iptables rules or anything like that - I&#x27;ll take a GUI any day.",
+        "num_comments": null,
+        "story_id": 32353306,
+        "story_title": "$55 board turns a Raspberry Pi CM4 into a router",
+        "story_url": "https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/",
+        "parent_id": 32360137,
+        "created_at_i": 1659731489,
+        "_tags": [
+            "comment",
+            "author_hotpotamus",
+            "story_32353306"
+        ],
+        "objectID": "32361644",
+        "_highlightResult": {
+            "author": {
+                "value": "hotpotamus",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Yep, I've actually got some of the fanless guys branded as &quot;protectli&quot; or something like that around the office, I didn't know there were generic ones on aliexpress - that's a good link, thank you.<p>And yep, I've only ever used dd-wrt, never openwrt directly, so not sure about that, but I've no desire to hand edit iptables rules or anything like that - I'll take a GUI any day.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "$55 board turns a Raspberry Pi CM4 into a router",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:24.000Z",
+        "title": null,
+        "url": null,
+        "author": "ericbarrett",
+        "points": null,
+        "story_text": null,
+        "comment_text": "I am NO cryptographer, but surely the full record of submissions, changes, and technical discussion of a given implementation is critical here. As asserted in the blog post, there may be underhanded and proxied attempts to influence development of these algorithms*, and such records would be very valuable in determining this. The source code is necessary but not sufficient for a fully open process.<p>* I expect nowadays this would extend far beyond American three-letter agencies.",
+        "num_comments": null,
+        "story_id": 32360533,
+        "story_title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+        "story_url": "http://blog.cr.yp.to/20220805-nsa.html",
+        "parent_id": 32361548,
+        "created_at_i": 1659731484,
+        "_tags": [
+            "comment",
+            "author_ericbarrett",
+            "story_32360533"
+        ],
+        "objectID": "32361643",
+        "_highlightResult": {
+            "author": {
+                "value": "ericbarrett",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "I am NO cryptographer, but surely the full record of submissions, changes, and technical discussion of a given implementation is critical here. As asserted in the blog post, there may be underhanded and proxied attempts to influence development of these algorithms*, and such records would be very valuable in determining this. The source code is necessary but not sufficient for a fully open process.<p>* I expect nowadays this would extend far beyond American three-letter agencies.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "http://blog.cr.yp.to/20220805-nsa.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:21.000Z",
+        "title": null,
+        "url": null,
+        "author": "kens",
+        "points": null,
+        "story_text": null,
+        "comment_text": "That&#x27;s what they called modules that were built from active and passive components. As opposed to a &quot;monolithic&quot; integrated circuit.",
+        "num_comments": null,
+        "story_id": 32359618,
+        "story_title": "Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans",
+        "story_url": "http://www.righto.com/2022/08/lumafield-flip-flop.html",
+        "parent_id": 32361088,
+        "created_at_i": 1659731481,
+        "_tags": [
+            "comment",
+            "author_kens",
+            "story_32359618"
+        ],
+        "objectID": "32361642",
+        "_highlightResult": {
+            "author": {
+                "value": "kens",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "That's what they called modules that were built from active and passive components. As opposed to a &quot;monolithic&quot; integrated circuit.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "http://www.righto.com/2022/08/lumafield-flip-flop.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:18.000Z",
+        "title": null,
+        "url": null,
+        "author": "fknorangesite",
+        "points": null,
+        "story_text": null,
+        "comment_text": "It turns out there are different styles of burger. Who knew, right? And surprise they picked the photogenic one for the banner.<p>Here&#x27;s the beauty of reading an article on cooking, and subsequently of cooking for yourself: you can take what you learned and then make your burger however you like. And how you like your burger might not be how someone else likes theirs.",
+        "num_comments": null,
+        "story_id": 32353865,
+        "story_title": "Tips for Better Burgers (2010)",
+        "story_url": "https://www.seriouseats.com/the-burger-labs-top-ten-tips-for-better-burgers",
+        "parent_id": 32359842,
+        "created_at_i": 1659731478,
+        "_tags": [
+            "comment",
+            "author_fknorangesite",
+            "story_32353865"
+        ],
+        "objectID": "32361641",
+        "_highlightResult": {
+            "author": {
+                "value": "fknorangesite",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "It turns out there are different styles of burger. Who knew, right? And surprise they picked the photogenic one for the banner.<p>Here's the beauty of reading an article on cooking, and subsequently of cooking for yourself: you can take what you learned and then make your burger however you like. And how you like your burger might not be how someone else likes theirs.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Tips for Better Burgers (2010)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.seriouseats.com/the-burger-labs-top-ten-tips-for-better-burgers",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:17.000Z",
+        "title": null,
+        "url": null,
+        "author": "omega3",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Reminds me of Cunningham&#x27;s Law: &quot;the best way to get the right answer on the internet is not to ask a question; it&#x27;s to post the wrong answer.&quot;",
+        "num_comments": null,
+        "story_id": 32341274,
+        "story_title": "Hocus focus: how magicians made a fortune on Facebook",
+        "story_url": "https://www.economist.com/1843/2022/07/28/hocus-focus-how-magicians-made-a-fortune-on-facebook",
+        "parent_id": 32360627,
+        "created_at_i": 1659731477,
+        "_tags": [
+            "comment",
+            "author_omega3",
+            "story_32341274"
+        ],
+        "objectID": "32361640",
+        "_highlightResult": {
+            "author": {
+                "value": "omega3",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Reminds me of Cunningham's Law: &quot;the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.&quot;",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Hocus focus: how magicians made a fortune on Facebook",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.economist.com/1843/2022/07/28/hocus-focus-how-magicians-made-a-fortune-on-facebook",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:16.000Z",
+        "title": null,
+        "url": null,
+        "author": "valleyer",
+        "points": null,
+        "story_text": null,
+        "comment_text": "See also: <a href=\"https:&#x2F;&#x2F;unix.stackexchange.com&#x2F;questions&#x2F;405783&#x2F;why-does-man-print-gimme-gimme-gimme-at-0030\" rel=\"nofollow\">https:&#x2F;&#x2F;unix.stackexchange.com&#x2F;questions&#x2F;405783&#x2F;why-does-man...</a>",
+        "num_comments": null,
+        "story_id": 32359790,
+        "story_title": "Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity",
+        "story_url": "https://www.husqvarna.com/us/discover/news-and-media/happybirthday/",
+        "parent_id": 32360876,
+        "created_at_i": 1659731476,
+        "_tags": [
+            "comment",
+            "author_valleyer",
+            "story_32359790"
+        ],
+        "objectID": "32361639",
+        "_highlightResult": {
+            "author": {
+                "value": "valleyer",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "See also: <a href=\"https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030\" rel=\"nofollow\">https://unix.stackexchange.com/questions/405783/why-does-man...</a>",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.husqvarna.com/us/discover/news-and-media/happybirthday/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:16.000Z",
+        "title": null,
+        "url": null,
+        "author": "TylerE",
+        "points": null,
+        "story_text": null,
+        "comment_text": "My favorite cron “feature” is that the day of week field operates acts as an “or” and not an “and”.<p>This will come as an unpleasant surprise when you try to schedule something to run on, say, the first Friday of the month.<p>There are workarounds, mostly involving backticked date invocations, but they’re hard to both write and read.",
+        "num_comments": null,
+        "story_id": 32358591,
+        "story_title": "Show HN: Convert English to Cron Expressions",
+        "story_url": "https://cronprompt.com/",
+        "parent_id": 32359291,
+        "created_at_i": 1659731476,
+        "_tags": [
+            "comment",
+            "author_TylerE",
+            "story_32358591"
+        ],
+        "objectID": "32361638",
+        "_highlightResult": {
+            "author": {
+                "value": "TylerE",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "My favorite cron “feature” is that the day of week field operates acts as an “or” and not an “and”.<p>This will come as an unpleasant surprise when you try to schedule something to run on, say, the first Friday of the month.<p>There are workarounds, mostly involving backticked date invocations, but they’re hard to both write and read.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Show HN: Convert English to Cron Expressions",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://cronprompt.com/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:05.000Z",
+        "title": null,
+        "url": null,
+        "author": "nomel",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Verbatim is useful, but it&#x27;s also going to an extreme.",
+        "num_comments": null,
+        "story_id": 32351409,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": 32353251,
+        "created_at_i": 1659731465,
+        "_tags": [
+            "comment",
+            "author_nomel",
+            "story_32351409"
+        ],
+        "objectID": "32361637",
+        "_highlightResult": {
+            "author": {
+                "value": "nomel",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Verbatim is useful, but it's also going to an extreme.",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:05.000Z",
+        "title": "Cardinality Estimation for Disjunctive (OR) Predicates in SQL Server 2014 Onward",
+        "url": "https://www.sql.kiwi/2014/04/cardinality-estimation-for-disjunctive-predicates-in-2014.html",
+        "author": "hjnkk",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1659731465,
+        "_tags": [
+            "story",
+            "author_hjnkk",
+            "story_32361636"
+        ],
+        "objectID": "32361636",
+        "_highlightResult": {
+            "title": {
+                "value": "Cardinality Estimation for Disjunctive (OR) Predicates in SQL Server 2014 Onward",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.sql.kiwi/2014/04/cardinality-estimation-for-disjunctive-predicates-in-2014.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "hjnkk",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:04.000Z",
+        "title": null,
+        "url": null,
+        "author": "kube-system",
+        "points": null,
+        "story_text": null,
+        "comment_text": "If it were 2005, I&#x27;d agree with you.",
+        "num_comments": null,
+        "story_id": 32356171,
+        "story_title": "Italy, Intel close to $5B deal for chip factory",
+        "story_url": "https://www.reuters.com/technology/exclusive-italy-intel-close-5-bln-deal-chip-factory-sources-2022-08-04/",
+        "parent_id": 32359631,
+        "created_at_i": 1659731464,
+        "_tags": [
+            "comment",
+            "author_kube-system",
+            "story_32356171"
+        ],
+        "objectID": "32361635",
+        "_highlightResult": {
+            "author": {
+                "value": "kube-system",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "If it were 2005, I'd agree with you.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Italy, Intel close to $5B deal for chip factory",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.reuters.com/technology/exclusive-italy-intel-close-5-bln-deal-chip-factory-sources-2022-08-04/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:01.000Z",
+        "title": null,
+        "url": null,
+        "author": "isleyaardvark",
+        "points": null,
+        "story_text": null,
+        "comment_text": "I largely agree with the article but that example wasn&#x27;t a great one.<p>I don&#x27;t remember the last time I&#x27;ve seen a modal where it was possible to have an &quot;accidental background row click&quot;. Industry standard has been: modals have a modal on top and a full screen modal overlay between the modal and the content (usually darkening the content). Click events are handled by the overlay and do not make it through to the content underneath, and the only thing the overlay does onClick is close out the modal. It&#x27;s so common I don&#x27;t know any user who would expect different behavior. If they&#x27;ve used a modal before they would expect clicking on the overlay would close it out without saving the data. Modals are pretty big, I don&#x27;t think an accident like that would be common.",
+        "num_comments": null,
+        "story_id": 32358745,
+        "story_title": "Forms in modals: UX case",
+        "story_url": "https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/",
+        "parent_id": 32359261,
+        "created_at_i": 1659731461,
+        "_tags": [
+            "comment",
+            "author_isleyaardvark",
+            "story_32358745"
+        ],
+        "objectID": "32361634",
+        "_highlightResult": {
+            "author": {
+                "value": "isleyaardvark",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "I largely agree with the article but that example wasn't a great one.<p>I don't remember the last time I've seen a modal where it was possible to have an &quot;accidental background row click&quot;. Industry standard has been: modals have a modal on top and a full screen modal overlay between the modal and the content (usually darkening the content). Click events are handled by the overlay and do not make it through to the content underneath, and the only thing the overlay does onClick is close out the modal. It's so common I don't know any user who would expect different behavior. If they've used a modal before they would expect clicking on the overlay would close it out without saving the data. Modals are pretty big, I don't think an accident like that would be common.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Forms in modals: UX case",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:31:00.000Z",
+        "title": null,
+        "url": null,
+        "author": "speedgoose",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Yes, memory safety is a solved problem, and research has mostly moved on. The best solution is to use a memory-safe programming language. Yet we find security vulnerabilities all the time in software written with memory unsafe programming languages.",
+        "num_comments": null,
+        "story_id": 32354471,
+        "story_title": "Ask HN: What are some good resources to learn safety-critical C/C++ coding from?",
+        "story_url": null,
+        "parent_id": 32361112,
+        "created_at_i": 1659731460,
+        "_tags": [
+            "comment",
+            "author_speedgoose",
+            "story_32354471"
+        ],
+        "objectID": "32361633",
+        "_highlightResult": {
+            "author": {
+                "value": "speedgoose",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Yes, memory safety is a solved problem, and research has mostly moved on. The best solution is to use a memory-safe programming language. Yet we find security vulnerabilities all the time in software written with memory unsafe programming languages.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "Ask HN: What are some good resources to learn safety-critical C/C++ coding from?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    },
+    {
+        "created_at": "2022-08-05T20:30:51.000Z",
+        "title": null,
+        "url": null,
+        "author": "hinkley",
+        "points": null,
+        "story_text": null,
+        "comment_text": "&gt; For Cameron, transhumanism looks as frightening as ever, and he honed in on a notion he refers to as the “hollowing out of the human,” the idea that “all that matters in Homo sapiens can be uploaded as a paradigm for our desiderata.”<p>Jonathan Coulton, The Future Soon:<p><pre><code>    Cause it&#x27;s gonna be the future soon\n    And I won&#x27;t always be this way\n    When the things that make me weak and strange get engineered away\n    It&#x27;s gonna be the future soon\n    I&#x27;ve never seen it quite so clear\n    And when my heart is breaking I can close my eyes and it&#x27;s already here \n</code></pre>\nIt&#x27;s important to note, if you&#x27;re not familiar with JoCo, that he is a <i>satirist</i> and this is a song about someone accidentally becoming a cyborg supervillain who causes a robot uprising, all because a girl dissed his secret admirer note in high school.<p>Do you want to be a transhumanist because you are embracing something, or because you are running away from something, like the fictional character in this song? The latter is deeply unhealthy, perhaps fatally (or in this case, genocidally) so.",
+        "num_comments": null,
+        "story_id": 32359596,
+        "story_title": "What ever happened to the transhumanists?",
+        "story_url": "https://gizmodo.com/what-happened-to-transhumanism-in-2022-life-extension-1849199492",
+        "parent_id": 32359596,
+        "created_at_i": 1659731451,
+        "_tags": [
+            "comment",
+            "author_hinkley",
+            "story_32359596"
+        ],
+        "objectID": "32361632",
+        "_highlightResult": {
+            "author": {
+                "value": "hinkley",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "&gt; For Cameron, transhumanism looks as frightening as ever, and he honed in on a notion he refers to as the “hollowing out of the human,” the idea that “all that matters in Homo sapiens can be uploaded as a paradigm for our desiderata.”<p>Jonathan Coulton, The Future Soon:<p><pre><code>    Cause it's gonna be the future soon\n    And I won't always be this way\n    When the things that make me weak and strange get engineered away\n    It's gonna be the future soon\n    I've never seen it quite so clear\n    And when my heart is breaking I can close my eyes and it's already here \n</code></pre>\nIt's important to note, if you're not familiar with JoCo, that he is a <i>satirist</i> and this is a song about someone accidentally becoming a cyborg supervillain who causes a robot uprising, all because a girl dissed his secret admirer note in high school.<p>Do you want to be a transhumanist because you are embracing something, or because you are running away from something, like the fictional character in this song? The latter is deeply unhealthy, perhaps fatally (or in this case, genocidally) so.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_title": {
+                "value": "What ever happened to the transhumanists?",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://gizmodo.com/what-happened-to-transhumanism-in-2022-life-extension-1849199492",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }
+]
