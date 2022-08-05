@@ -3,8 +3,9 @@ import Box from '@mui/material/Box';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
-import Select from '@mui/material/Select';
+import { Select } from '@mui/material';
 import { menuOptions } from '../general/utils';
+import { SelectChangeEvent } from '../general/types';
 import '../styles/home.css';
 import '../styles/select.css';
 
@@ -15,7 +16,7 @@ interface IProps {
 
 const SelectControl = ({ news, setNews }: IProps) => {
 
-    const handleChange = (event: any) => {
+    const handleChange = (event: SelectChangeEvent<string>) => {
         setNews(event.target.value);
     };
 

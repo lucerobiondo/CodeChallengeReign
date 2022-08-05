@@ -8,20 +8,17 @@ import DescriptionCard from './cards/DescriptionCard';
 
 interface Props {
     hit: Hits,
-    likes: boolean,
     faves: string,
-    setLikes: React.Dispatch<React.SetStateAction<boolean>>
 }
 
-const NewsDescription = ({ hit, likes, faves, setLikes }: Props) => {
+const NewsDescription = ({ hit, faves }: Props) => {
 
     const [like, setLike] = useState(false);
-    const year = formatDate(new Date(hit?.created_at)).year;
-    const month = formatDate(new Date(hit?.created_at)).month;
-    const day = formatDate(new Date(hit?.created_at)).day;
-    const hour = formatDate(new Date(hit?.created_at)).hour;
-    const dateAuthor = moment(`${year}-${month}-${day} ${hour}`, 'YY-MM-DD HH').fromNow();
-    setLikes(like);
+    const year = formatDate(new Date(hit?.created_at)).year.toString();
+    const month = formatDate(new Date(hit?.created_at)).month.toString();
+    const day = formatDate(new Date(hit?.created_at)).day.toString();
+    const hour = formatDate(new Date(hit?.created_at)).hour.toString();
+    const dateAuthor = moment(`${year}-${month}-${day} ${hour}`, 'YYYY-MM-DD HH').fromNow();
 
     return (
         <>

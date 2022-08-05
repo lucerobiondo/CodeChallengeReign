@@ -1,6 +1,6 @@
 .Rectangle-2-Copy {
-  /* width: 1440px;
-  height: 114px; */
+  width: auto;
+  height: 114px;
   margin: 0 0 70px;
   padding: 44px 1082px 42px 150px;
   box-shadow: 0 1px 4px 0 rgba(0, 21, 41, 0.12);
@@ -12,7 +12,7 @@
   flex-direction: row;
   justify-content: center;
   align-self: center;
-  width: 100%;
+  width: 1270px;
   min-height: 90px;
   height: 102px;
 }
@@ -40,7 +40,7 @@
 }
 
 .Front-End-Test---Home-view {
-  width: 1440px;
+  width: auto;
   height: 1024px;
   padding: 0 0 98px;
   background-color: #fcfcfc;
@@ -92,9 +92,10 @@
 
   .Pagination {
     width: 400px;
-    margin-top: 1160px;
+    /* margin-top: 1160px; */
     margin-bottom: 20px;
     margin-left: 160px;
+    position: sticky;
   }
 
   .Select--Home-view {

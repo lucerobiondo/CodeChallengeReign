@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Box } from '@mui/material';
 import '../../styles/description.css';
 import time from '../Images/iconmonstr-time-2@3x.png';
@@ -21,8 +21,6 @@ const DescriptionCard = ({ hit, dateAuthor, like, setLike }: Props) => {
     const handleUnlike = () => {
         setLike(false);
     };
-
-    console.log('like in description card :' , like);
 
     return (
         <>

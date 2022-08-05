@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Box } from '@mui/material';
 import ColorToggleButton from '../components/ColorToggleButton';
-import { Hits, Data } from '../general/types';
+import { Data } from '../general/types';
 import '../styles/home.css';
 import '../styles/select.css';
 import axios from 'axios';
@@ -9,9 +9,6 @@ import { url } from '../general/utils';
 import NewsDescription from '../components/NewsDescription';
 import PaginationControl from '../components/PaginationControl';
 import SelectControl from '../components/SelectControl';
-
-import iconUnlike from '../components/Images/iconmonstr-favorite-2@3x.png';
-import iconLike from '../components/Images/iconmonstr-favorite-3@3x.png';
 import '../styles/description.css';
 
 const Home = () => {
@@ -19,7 +16,6 @@ const Home = () => {
     const [news, setNews] = useState('');
     const [allFaves, setAllFaves] = useState<Data>();
     const [page, setPage] = useState(1);
-    const [like, setLike] = useState(false);
     const [faves, setFaves] = React.useState('all_faves');
 
     useEffect(() => {
@@ -48,12 +44,11 @@ const Home = () => {
                 </Box>
                 <Box className='Description--Home-view'>
                     {
-                        allFaves?.hits?.map((hit) => {
+                        allFaves?.hits?.map((hit, key) => {
                             return (
 
                                 <NewsDescription
-                                    key={hit._id} hit={hit}
-                                    likes={like} setLikes={setLike}
+                                    key={key} hit={hit}
                                     faves={faves}
                                 />
 
@@ -61,10 +56,10 @@ const Home = () => {
                         }
                         )
                     }
+                    <Box className='Pagination'>
+                        <PaginationControl nbHits={allFaves?.nbHits} page={page} setPage={setPage} />
+                    </Box>
                 </Box>
-            </Box>
-            <Box className='Pagination'>
-                <PaginationControl nbHits={allFaves?.nbHits} page={page} setPage={setPage} />
             </Box>
         </>
     );

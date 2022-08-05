@@ -45,3 +45,7 @@
     flex-direction: row;
     justify-content: flex-start;
 }
+
+#demo-simple-select{
+   line-height: 0;
+}
