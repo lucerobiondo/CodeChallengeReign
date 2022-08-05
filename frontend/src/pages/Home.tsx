@@ -10,12 +10,17 @@ import NewsDescription from '../components/NewsDescription';
 import PaginationControl from '../components/PaginationControl';
 import SelectControl from '../components/SelectControl';
 
+import iconUnlike from '../components/Images/iconmonstr-favorite-2@3x.png';
+import iconLike from '../components/Images/iconmonstr-favorite-3@3x.png';
+import '../styles/description.css';
+
 const Home = () => {
 
-    const [hits, setHits] = useState<Hits[]>([]);
     const [news, setNews] = useState('');
     const [allFaves, setAllFaves] = useState<Data>();
     const [page, setPage] = useState(1);
+    const [like, setLike] = useState(false);
+    const [faves, setFaves] = React.useState('all_faves');
 
     useEffect(() => {
         fetchAllFaves();
@@ -29,25 +34,27 @@ const Home = () => {
 
     return (
         <>
-            <Box className="Rectangle-2-Copy">
-                <h1 className="HACKER-NEWS Text-Style">
+            <Box className='Rectangle-2-Copy'>
+                <h1 className='HACKER-NEWS Text-Style'>
                     HACKER NEWS
                 </h1>
             </Box>
-            <Box className="Front-End-Test---Home-view">
+            <Box className='Front-End-Test---Home-view'>
                 <Box className='ColorToggleButton--Home-view'>
-                    <ColorToggleButton hits={hits} setHits={setHits} />
+                    <ColorToggleButton faves={faves} setFaves={setFaves} />
                 </Box>
                 <Box className='Select--Home-view'>
                     <SelectControl news={news} setNews={setNews} />
                 </Box>
-                <Box className="Description--Home-view">
+                <Box className='Description--Home-view'>
                     {
                         allFaves?.hits?.map((hit) => {
                             return (
 
                                 <NewsDescription
                                     key={hit._id} hit={hit}
+                                    likes={like} setLikes={setLike}
+                                    faves={faves}
                                 />
 
                             );
@@ -56,7 +63,7 @@ const Home = () => {
                     }
                 </Box>
             </Box>
-            <Box className="Pagination">
+            <Box className='Pagination'>
                 <PaginationControl nbHits={allFaves?.nbHits} page={page} setPage={setPage} />
             </Box>
         </>

@@ -21,21 +21,21 @@ const SelectControl = ({ news, setNews }: IProps) => {
 
     return (
         <>
-            <FormControl className="Rectangle-26-Copy-23">
-                <InputLabel id="demo-simple-select-label">Select your news</InputLabel>
+            <FormControl className='Rectangle-26-Copy-23'>
+                <InputLabel id='demo-simple-select-label'>Select your news</InputLabel>
                 <Select
-                    labelId="demo-simple-select-label"
-                    id="demo-simple-select"
+                    labelId='demo-simple-select-label'
+                    id='demo-simple-select'
                     value={news}
-                    label="Select your news"
+                    label='Select your news'
                     onChange={handleChange}
                 >
                     {
                         menuOptions.map((option) =>
                             <MenuItem key={option.name} value={option.name}>
-                                <Box className="Rectangle">
+                                <Box className='Rectangle'>
                                     <Box>
-                                        <img src={option.img} alt="frameworks" width="24px" height="24px" />
+                                        <img src={option.img} alt='frameworks' width='24px' height='24px' />
                                     </Box>
                                     <Box className={option.class}>
                                         {option.name}
