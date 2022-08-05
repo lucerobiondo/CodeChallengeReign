@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
     width: 517px;
     height: 90px;
@@ -18,7 +18,7 @@
     opacity: 1;
 }
 
-.Rectangle1 {
+.Rectangle-1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -41,29 +41,29 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: initial;
+    position: relative;
 }
 
 
 img.iconmonstr-time-2 {
     width: 16px;
     height: 16px;
-    margin: 0 8px 6px 0;
+    margin: 2px 3px 6px 0;
     object-fit: contain;
 }
 
 .-hours-ago-by-autho {
-    width: 107px;
+    width: 127px;
     height: 13px;
-    margin: 2px 309px 7px 8px;
     font-family: Roboto;
     font-size: 11px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
-    line-height: normal;
+    line-height: 0;
     letter-spacing: normal;
     color: #767676;
+    text-align: center;
 }
 
 .Event-driven-state-m {
@@ -91,8 +91,20 @@ img.iconmonstr-favorite {
     .Rectangle-Patern {
         display: flex;
         flex-direction: row;
-        justify-content: center;
+        flex-wrap: wrap;
+        justify-content: flex-end;
         align-items: center;
-        margin-left: 70px;
+        margin-left: 10px;
+        width: 400px;
+    }
+
+    .Rectangle-1 {
+        width: 320px;
+        height: 90px;
+    }
+
+    .Event-driven-state-m {
+        width: 320px;
+        height: 20px;
     }
 }

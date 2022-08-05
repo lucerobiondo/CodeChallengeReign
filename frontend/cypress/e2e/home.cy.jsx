@@ -4,7 +4,6 @@ describe('Home dashboard', () => {
 
   beforeEach(() => {
     cy.visit('localhost:3000/')
-    // cy.waitForReact()
   })
 
   it('GET method', () => {
@@ -29,7 +28,6 @@ describe('Home dashboard', () => {
           res.body.hitsPerPage = 20
         })
       }).as('postAngular')
-    // cy.wait('@postAngular').its('response.statusCode').should('eq', 200)
   })
 
   it("Gets a list of hits not empty.", () => {
