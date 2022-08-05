@@ -74,16 +74,23 @@
   align-items: center;
   margin-top: 138px;
   margin-bottom: 20px;
-  position: relative;
+  position: sticky;
 }
 
 @media screen and (max-width: 480px) {
+  .ColorToggleButton--Home-view {
+    width: 100%;
+    margin-left: 140px;
+  }
+
   .Description--Home-view {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: flex-start;
+    width: 400px;
+    margin: 0;
   }
 
   .ColorToggleButton--Home-view {
@@ -92,13 +99,13 @@
 
   .Pagination {
     width: 400px;
-    /* margin-top: 1160px; */
-    margin-bottom: 20px;
-    margin-left: 160px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    margin-left: 20px;
     position: sticky;
   }
 
   .Select--Home-view {
-    margin-left: 120px;
+    margin-left: 110px;
   }
 }
