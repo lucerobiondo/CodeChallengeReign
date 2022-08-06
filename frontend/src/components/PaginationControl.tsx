@@ -3,12 +3,12 @@ import Stack from '@mui/material/Stack';
 import React from 'react';
 
 interface IProps {
-    nbHits: number | undefined,
+    nbPages: number | undefined,
     page: number,
     setPage: React.Dispatch<React.SetStateAction<number>>
 }
 
-const PaginationControl = ({ nbHits, page, setPage }: IProps) => {
+const PaginationControl = ({ nbPages, page, setPage }: IProps) => {
 
     const handleChangePagination = (event: React.ChangeEvent<unknown>, value: number) => {
         setPage(value);
@@ -18,7 +18,7 @@ const PaginationControl = ({ nbHits, page, setPage }: IProps) => {
         <>
             <Stack spacing={1}>
                 <Pagination
-                    count={nbHits}
+                    count={nbPages}
                     page={page}
                     defaultPage={1}
                     onChange={handleChangePagination}

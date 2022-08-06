@@ -11,7 +11,7 @@ export type Hits = {
 export type Data = {
     hits: Hits[],
     hitsPerPage: number,
-    nbHits: number,
+    nbPages: number,
     page: number,
     query: string
 }
