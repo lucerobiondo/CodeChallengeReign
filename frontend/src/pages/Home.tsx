@@ -23,9 +23,11 @@ const Home = () => {
     }, [news, page]);
 
     const fetchAllFaves = async () => {
-        const response = await axios(url(news, page));
-        console.log(response);
-        setAllFaves(response.data);
+        if(news !== ''){
+            const response = await axios(url(news, page));
+            console.log(response);
+            setAllFaves(response.data);
+        }
     };
 
     return (

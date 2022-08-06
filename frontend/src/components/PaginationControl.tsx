@@ -20,8 +20,10 @@ const PaginationControl = ({ nbHits, page, setPage }: IProps) => {
                 <Pagination
                     count={nbHits}
                     page={page}
-                    defaultPage={0}
-                    onChange={handleChangePagination} />
+                    defaultPage={1}
+                    onChange={handleChangePagination}
+                    shape='rounded'
+                    color='primary' />
             </Stack>
         </>
     );

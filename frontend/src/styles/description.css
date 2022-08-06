@@ -87,7 +87,7 @@ img.iconmonstr-favorite {
     cursor: pointer;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) and (orientation: portrait) {
     .Rectangle-Patern {
         display: flex;
         flex-direction: row;
@@ -105,6 +105,29 @@ img.iconmonstr-favorite {
 
     .Event-driven-state-m {
         width: 320px;
+        height: 20px;
+    }
+}
+
+@media screen and (max-width: 800px) and (orientation:landscape) {
+
+    .Rectangle-Patern {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        align-items: center;
+        margin-left: 10px;
+        width: 360px;
+    }
+
+    .Rectangle-1 {
+        width: 280px;
+        height: 90px;
+    }
+
+    .Event-driven-state-m {
+        width: 280px;
         height: 20px;
     }
 }
