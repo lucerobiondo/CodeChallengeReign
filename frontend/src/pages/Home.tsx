@@ -59,7 +59,7 @@ const Home = () => {
                         )
                     }
                     <Box className='Pagination'>
-                        <PaginationControl nbHits={allFaves?.nbHits} page={page} setPage={setPage} />
+                        <PaginationControl nbPages={allFaves?.nbPages} page={page} setPage={setPage} />
                     </Box>
                 </Box>
             </Box>
