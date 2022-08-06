@@ -18,5 +18,5 @@ export const formatDate = (date: Date) => {
 };
 
 export const url = (angular: string, page: number) => {
-    return `https://hn.algolia.com/api/v1/search_by_date?query=${angular}&page=${page.toString()}`;
+    return `https://hn.algolia.com/api/v1/search_by_date?query=${angular}&page=${(page - 1).toString()}`;
 };

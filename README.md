@@ -60,14 +60,4 @@ npm run cypress:open
 
 Afterward new window will open so select E2E or component option and the browser you want to test. Then select the **.cy.jsx files to start the automatic testing with Cypress.
 
-If you want to test only react components open bash and type:
-
-```bash
-npx cypress open --component
-```
-
-In the other hand if you want test E2E:
-
-```bash
-npx cypress open --e2e
-```
+When the window opens, you may select the E2E or Component Test option.

@@ -24,32 +24,34 @@ const DescriptionCard = ({ hit, dateAuthor, like, setLike }: Props) => {
 
     return (
         <>
-            <Box className='Rectangle-Patern'>
-                <Box className='Reactangle-1'>
-                    <Box display='flex' height='20px'>
-                        <img src={time} alt='icon-Time' className='iconmonstr-time-2' />
-                        <p className='-hours-ago-by-autho'>
-                            {dateAuthor} by author
-                        </p>
+            {
+                <Box className='Rectangle-Patern'>
+                    <Box className='Reactangle-1'>
+                        <Box display='flex' height='20px'>
+                            <img src={time} alt='icon-Time' className='iconmonstr-time-2' />
+                            <p className='-hours-ago-by-autho'>
+                                {dateAuthor} by author
+                            </p>
+                        </Box>
+                        <Box display='flex' height='auto' paddingBottom='10px'>
+                            <p className='Event-driven-state-m'>
+                                {hit.story_title}
+                            </p>
+                        </Box>
                     </Box>
-                    <Box display='flex' height='auto' paddingBottom='10px'>
-                        <p className='Event-driven-state-m'>
-                            {hit.story_title}
-                        </p>
+                    <Box className='Rectangle-favorite'>
+                        {
+                            like
+                                ? <img src={iconLike} alt='favorite'
+                                    className='iconmonstr-favorite'
+                                    onClick={handleUnlike} />
+                                : <img src={iconUnlike} alt='no-favorite'
+                                    className='iconmonstr-favorite'
+                                    onClick={handleLike} />
+                        }
                     </Box>
                 </Box>
-                <Box className='Rectangle-favorite'>
-                    {
-                        like
-                            ? <img src={iconLike} alt='favorite'
-                                className='iconmonstr-favorite'
-                                onClick={handleUnlike} />
-                            : <img src={iconUnlike} alt='no-favorite'
-                                className='iconmonstr-favorite'
-                                onClick={handleLike} />
-                    }
-                </Box>
-            </Box>
+            }
         </>
     );
 };

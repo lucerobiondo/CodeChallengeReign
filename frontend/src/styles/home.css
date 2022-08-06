@@ -77,7 +77,25 @@
   position: sticky;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) and (orientation:portrait) {
+
+  .Front-End-Test---Home-view {
+    max-width: auto;
+    height: auto;
+    margin-left: 40px;
+  }
+
+  .Rectangle-2-Copy {
+    width: 480px;
+    height: 114px;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 70px 0;
+    padding: 4px 20px 42px 20px;
+  }
+
   .ColorToggleButton--Home-view {
     width: 100%;
     margin-left: 140px;
@@ -107,5 +125,54 @@
 
   .Select--Home-view {
     margin-left: 110px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+
+  .Front-End-Test---Home-view {
+    max-width: auto;
+    height: auto;
+    margin-left: 10px;
+  }
+}
+
+@media screen and (max-width: 800px) and (orientation:landscape) {
+
+  .Front-End-Test---Home-view {
+    max-width: 800px;
+    height: auto;
+    margin-left: 20px;
+  }
+
+  .ColorToggleButton--Home-view {
+    width: 100%;
+    margin-left: 190px;
+  }
+
+  .Description--Home-view {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    margin: 0;
+  }
+
+  .ColorToggleButton--Home-view {
+    width: 70%;
+  }
+
+  .Pagination {
+    width: 400px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    position: sticky;
+  }
+
+  .Select--Home-view {
+    margin-left: 15px;
   }
 }
